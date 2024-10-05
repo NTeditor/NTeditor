@@ -1,7 +1,7 @@
 - 👋 Привет, Я @NTeditor
 - 👀 Меня Интерисует: root
 - 🌱 Я сейчас изучаю python и bash.
-- 📫 Сомной можно связатся в: Telegram --> t.me/NTeditor, 4PDA --> https://4pda.to/forum/index.php?showuser=10427631
+- 📫 Сомной можно связатся в: Telegram --> https://t.me/NTeditor, 4PDA --> https://4pda.to/forum/index.php?showuser=10427631
 - ⚡ Fun fact: I'm nowhere without "Good Bye Dpi"
 
 <!---
